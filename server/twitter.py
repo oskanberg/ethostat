@@ -1,3 +1,4 @@
+#!/bin/false
 
 import oauth2 as oauth
 import os
