@@ -1,9 +1,4 @@
 
-
-function thermometer = {
-    this.
-}
-
 $(document).ready(function()
 {
     console.log("hello!");
